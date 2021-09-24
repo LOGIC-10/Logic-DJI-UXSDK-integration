@@ -2,3 +2,4 @@
 Git 是一个本地仓库管理工具
 我已经创建了仓库（repository）
 仓库的名称是learnGit
+实践出真知
